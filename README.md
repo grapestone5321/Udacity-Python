@@ -111,5 +111,1009 @@ Learn about Python development, tips and tricks, walkthroughs, and best practice
 
 -------
 
+### 1
 
+15:29
+
+Python Tutorial for Beginners 1: Install and Setup for Mac and Windows
+Corey Schafer
+
+### 2
+
+21:12
+
+Python Tutorial for Beginners 2: Strings - Working with Textual Data
+Corey Schafer
+
+### 3
+
+11:55
+
+Python Tutorial for Beginners 3: Integers and Floats - Working with Numeric Data
+Corey Schafer
+
+### 4
+
+29:05
+
+Python Tutorial for Beginners 4: Lists, Tuples, and Sets
+Corey Schafer
+
+### 5
+
+9:59
+
+Python Tutorial for Beginners 5: Dictionaries - Working with Key-Value Pairs
+Corey Schafer
+
+### 6
+
+16:28
+
+Python Tutorial for Beginners 6: Conditionals and Booleans - If, Else, and Elif Statements
+Corey Schafer
+
+### 7
+
+10:14
+
+Python Tutorial for Beginners 7: Loops and Iterations - For/While Loops
+Corey Schafer
+
+### 8
+
+21:48
+
+Python Tutorial for Beginners 8: Functions
+Corey Schafer
+
+### 9
+
+21:57
+NOW PLAYING
+Python Tutorial for Beginners 9: Import Modules and Exploring The Standard Library
+Corey Schafer
+
+### 10
+
+26:03
+
+Setting up a Python Development Environment in Sublime Text
+Corey Schafer
+
+### 11
+
+23:01
+
+Setting up a Python Development Environment in Atom
+Corey Schafer
+
+### 12
+
+16:35
+
+Setting up a Python Development Environment in Eclipse
+Corey Schafer
+
+### 13
+
+9:06
+
+Python Tutorial: pip - An in-depth look at the package management system
+Corey Schafer
+
+### 14
+
+9:45
+
+Python Tutorial: virtualenv and why you should use virtual environments
+Corey Schafer
+
+### 15
+
+11:25
+
+Python Tutorial: Anaconda - Installation and Using Conda
+Corey Schafer
+
+### 16
+
+20:49
+
+Python Tutorial: How I Manage Multiple Projects, Virtual Environments, and Environment Variables
+Corey Schafer
+
+### 17
+
+30:21
+
+Jupyter Notebook Tutorial: Introduction, Setup, and Walkthrough
+Corey Schafer
+
+### 18
+
+20:59
+
+Python Tutorial: Variable Scope - Understanding the LEGB rule and global/nonlocal statements
+Corey Schafer
+
+### 19
+
+10:44
+
+Python Tutorial: Slicing Lists and Strings
+Corey Schafer
+
+### 20
+
+18:29
+
+Python Tutorial: Comprehensions - How they work and why you should be using them
+Corey Schafer
+
+### 21
+
+12:07
+
+Python Tutorial: Sorting Lists, Tuples, and Objects
+Corey Schafer
+
+### 22
+
+13:53
+
+Python Tutorial: String Formatting - Advanced Operations for Dicts, Lists, Numbers, and Dates
+Corey Schafer
+
+### 23
+
+19:14
+
+Python Tutorial: OS Module - Use Underlying Operating System Functionality
+Corey Schafer
+
+### 24
+
+27:49
+
+Python Tutorial: Datetime Module - How to work with Dates, Times, Timedeltas, and Timezones
+Corey Schafer
+
+### 25
+
+24:33
+
+Python Tutorial: File Objects - Reading and Writing to Files
+Corey Schafer
+
+### 26
+
+12:34
+
+Python Tutorial: Automate Parsing and Renaming of Multiple Files
+Corey Schafer
+
+### 27
+
+13:37
+
+Python Tutorial: Generate Random Numbers and Data Using the random Module
+Corey Schafer
+
+### 28
+
+16:12
+
+Python Tutorial: CSV Module - How to Read, Parse, and Write CSV Files
+Corey Schafer
+
+### 29
+
+18:48
+
+Python Tutorial: Real World Example - Parsing Names From a CSV to an HTML List
+Corey Schafer
+
+### 30
+
+53:18
+
+Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)
+Corey Schafer
+
+### 31
+
+10:34
+
+Python Tutorial: Using Try/Except Blocks for Error Handling
+Corey Schafer
+
+### 32
+
+15:23
+
+Python Tutorial: Duck Typing and Asking Forgiveness, Not Permission (EAFP)
+Corey Schafer
+
+### 33
+
+24:17
+
+Python Tutorial: How to Set the Path and Switch Between Different Versions/Executables (Windows)
+Corey Schafer
+
+### 34
+
+30:44
+
+Python Tutorial: How to Set the Path and Switch Between Different Versions/Executables (Mac & Linux)
+Corey Schafer
+
+### 35
+
+13:43
+
+Python Quick Tip: F-Strings - How to Use Them and Advanced String Formatting
+Corey Schafer
+
+### 36
+
+11:14
+
+Python Tutorial: Generators - How to use them and the benefits you receive
+Corey Schafer
+
+### 37
+
+30:28
+
+Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions
+Corey Schafer
+
+### 38
+
+6:13
+
+Python Tutorial: Decorators With Arguments
+Corey Schafer
+
+### 39
+
+7:21
+
+Python Tutorial: Namedtuple - When and why should you use namedtuples?
+Corey Schafer
+
+### 40
+
+15:24
+
+Python OOP Tutorial 1: Classes and Instances
+Corey Schafer
+
+### 41
+
+11:41
+
+Python OOP Tutorial 2: Class Variables
+Corey Schafer
+
+### 42
+
+15:20
+
+Python OOP Tutorial 3: classmethods and staticmethods
+Corey Schafer
+
+### 43
+
+19:40
+
+Python OOP Tutorial 4: Inheritance - Creating Subclasses
+Corey Schafer
+
+### 44
+
+13:50
+
+Python OOP Tutorial 5: Special (Magic/Dunder) Methods
+Corey Schafer
+
+### 45
+
+9:33
+
+Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters
+Corey Schafer
+
+### 46
+
+
+45:48
+
+Python Tutorial: Web Scraping with BeautifulSoup and Requests
+Corey Schafer
+
+### 47
+
+20:34
+
+Python Tutorial: Working with JSON Data using the json Module
+Corey Schafer
+
+### 48
+
+25:07
+
+Python Tutorial: Calculate Number of Days, Weeks, or Months to Reach Specific Goals
+Corey Schafer
+
+### 49
+
+20:37
+
+Python Tutorial: Context Managers - Efficiently Managing Resources
+Corey Schafer
+
+### 50
+
+7:45
+
+Python Tutorial: str() vs repr()
+Corey Schafer
+
+### 51
+
+29:49
+
+Python SQLite Tutorial: Complete Overview - Creating a Database, Table, and Running Queries
+Corey Schafer
+
+### 52
+
+14:25
+
+Python Tutorial: Logging Basics - Logging to Files, Setting Levels, and Formatting
+Corey Schafer
+
+### 53
+
+19:47
+
+Python Tutorial: Logging Advanced - Loggers, Handlers, and Formatters
+Corey Schafer
+
+### 54
+
+4:32
+
+Python Quick Tip: Hiding Passwords and Secret Keys in Environment Variables (Mac & Linux)
+Corey Schafer
+
+### 55
+
+4:38
+
+Python Quick Tip: Hiding Passwords and Secret Keys in Environment Variables (Windows)
+Corey Schafer
+
+### 56
+
+8:43
+
+Python Tutorial: if __name__ == '__main__'
+Corey Schafer
+
+### 57
+
+39:13
+
+Python Tutorial: Unit Testing Your Code with the unittest Module
+Corey Schafer
+
+### 58
+
+32:29
+
+Python Tutorial: Pipenv - Easily Manage Packages and Virtual Environments
+Corey Schafer
+
+### 59
+
+22:55
+
+Preparing for a Python Interview: 10 Things You Should Know
+Corey Schafer
+
+### 60
+
+7:04
+
+Python Tutorial: Else Clauses on Loops
+Corey Schafer
+
+### 61
+
+15:48
+
+Python Tutorial: Image Manipulation with Pillow
+Corey Schafer
+
+### 62
+
+7:56
+
+Python Tutorial: Custom Sublime Text Build Systems
+Corey Schafer
+
+### 63
+
+2:03
+
+Python: Ex Machina Easter Egg - Hidden Message within the Code
+Corey Schafer
+
+### 64
+
+17:09
+
+Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started
+Corey Schafer
+
+### 65
+
+31:42
+
+Python Flask Tutorial: Full-Featured Web App Part 2 - Templates
+Corey Schafer
+
+### 66
+
+48:16
+
+Python Flask Tutorial: Full-Featured Web App Part 3 - Forms and User Input
+Corey Schafer
+
+### 67
+
+29:58
+
+Python Flask Tutorial: Full-Featured Web App Part 4 - Database with Flask-SQLAlchemy
+Corey Schafer
+
+### 68
+
+20:38
+
+Python Flask Tutorial: Full-Featured Web App Part 5 - Package Structure
+Corey Schafer
+
+### 69
+
+47:15
+
+Python Flask Tutorial: Full-Featured Web App Part 6 - User Authentication
+Corey Schafer
+
+### 70
+
+42:15
+
+Python Flask Tutorial: Full-Featured Web App Part 7 - User Account and Profile Picture
+Corey Schafer
+
+### 71
+
+48:13
+
+Python Flask Tutorial: Full-Featured Web App Part 8 - Create, Update, and Delete Posts
+Corey Schafer
+
+### 72
+
+31:22
+
+Python Flask Tutorial: Full-Featured Web App Part 9 - Pagination
+Corey Schafer
+
+### 73
+
+42:12
+
+Python Flask Tutorial: Full-Featured Web App Part 10 - Email and Password Reset
+Corey Schafer
+
+### 74
+
+42:43
+
+Python Flask Tutorial: Full-Featured Web App Part 11 - Blueprints and Configuration
+Corey Schafer
+
+### 75
+
+12:45
+
+Python Flask Tutorial: Full-Featured Web App Part 12 - Custom Error Pages
+Corey Schafer
+
+### 76
+
+18:34
+
+Python Tutorial: Sets - Set Methods and Operations to Solve Common Problems
+Corey Schafer
+
+### 77
+
+15:32
+
+Python Django Tutorial: Full-Featured Web App Part 1 - Getting Started
+Corey Schafer
+
+### 78
+
+20:27
+
+Python Django Tutorial: Full-Featured Web App Part 2 - Applications and Routes
+Corey Schafer
+
+### 79
+
+45:45
+
+Python Django Tutorial: Full-Featured Web App Part 3 - Templates
+Corey Schafer
+
+### 80
+
+9:00
+
+Python Django Tutorial: Full-Featured Web App Part 4 - Admin Page
+Corey Schafer
+
+### 81
+
+38:47
+
+Python Django Tutorial: Full-Featured Web App Part 5 - Database and Migrations
+Corey Schafer
+
+### 82
+
+45:56
+
+Python Django Tutorial: Full-Featured Web App Part 6 - User Registration
+Corey Schafer
+
+### 83
+
+31:17
+
+Python Django Tutorial: Full-Featured Web App Part 7 - Login and Logout System
+Corey Schafer
+
+### 84
+
+35:41
+
+Python Django Tutorial: Full-Featured Web App Part 8 - User Profile and Picture
+Corey Schafer
+
+### 85
+
+26:07
+
+Python Django Tutorial: Full-Featured Web App Part 9 - Update User Profile
+Corey Schafer
+
+### 86
+
+53:15
+
+Python Django Tutorial: Full-Featured Web App Part 10 - Create, Update, and Delete Posts
+Corey Schafer
+
+### 87
+
+37:01
+
+Python Django Tutorial: Full-Featured Web App Part 11 - Pagination
+Corey Schafer
+
+### 88
+
+25:04
+
+Python Django Tutorial: Full-Featured Web App Part 12 - Email and Password Reset
+Corey Schafer
+
+### 89
+
+1:22:01
+
+Python Django Tutorial: Deploying Your Application (Option #1) - Deploy to a Linux Server
+Corey Schafer
+
+### 90
+
+23:08
+
+Python Tutorial: Iterators and Iterables - What Are They and How Do They Work?
+Corey Schafer
+
+### 91
+
+13:47
+
+Python Coding Problem: Creating Your Own Iterators
+Corey Schafer
+
+### 92
+
+45:49
+
+Python Tutorial: Itertools Module - Iterator Functions for Efficient Looping
+Corey Schafer
+
+### 93
+
+1:15:00
+
+Python Flask Tutorial: Deploying Your Application (Option #1) - Deploy to a Linux Server
+Corey Schafer
+
+### 94
+
+24:00
+
+Python Flask Tutorial: How to Use a Custom Domain Name for Our Application
+Corey Schafer
+
+### 95
+
+27:18
+
+Python Django Tutorial: How to Use a Custom Domain Name for Our Application
+Corey Schafer
+
+### 96
+
+17:14
+
+Python Flask Tutorial: How to enable HTTPS with a free SSL/TLS Certificate using Let's Encrypt
+Corey Schafer
+
+### 97
+
+20:47
+
+Python Django Tutorial: How to enable HTTPS with a free SSL/TLS Certificate using Let's Encrypt
+Corey Schafer
+
+### 98
+
+26:35
+
+Python Django Tutorial: Full-Featured Web App Part 13 - Using AWS S3 for File Uploads
+Corey Schafer
+
+### 99
+
+53:31
+
+Python Django Tutorial: Deploying Your Application (Option #2) - Deploy using Heroku
+Corey Schafer
+
+### 100
+
+25:01
+
+Python Requests Tutorial: Request Web Pages, Download Images, POST Data, Read JSON, and More
+Corey Schafer
+
+### 101
+
+45:59
+
+Python Tutorial: Write a Script to Monitor a Website, Send Alert Emails, and Reboot Servers
+Corey Schafer
+
+### 102
+
+56:27
+
+Python Tutorial: Web Scraping with Requests-HTML
+Corey Schafer
+
+### 103
+
+31:57
+
+How to Send Emails Using Python - Plain Text, Adding Attachments, HTML Emails, and More
+Corey Schafer
+
+### 104
+
+39:21
+
+10 Python Tips and Tricks For Writing Better Code
+Corey Schafer
+
+### 105
+
+14:18
+
+Python Tutorial: VENV (Mac & Linux) - How to Use Virtual Environments with the Built-In venv Module
+Corey Schafer
+
+### 106
+
+17:10
+
+Python Tutorial: VENV (Windows) - How to Use Virtual Environments with the Built-In venv Module
+Corey Schafer
+
+### 107
+
+48:43
+
+How to Write Python Scripts to Analyze JSON APIs and Sort Results
+Corey Schafer
+
+### 108
+
+29:19
+
+5 Common Python Mistakes and How to Fix Them
+Corey Schafer
+
+### 109
+
+16:04
+
+Python Tutorial: Clarifying the Issues with Mutable Default Arguments
+Corey Schafer
+
+### 110
+
+1:15:44
+
+Visual Studio Code (Mac) - Setting up a Python Development Environment and Complete Overview
+Corey Schafer
+
+### 111
+
+1:15:17
+
+Visual Studio Code (Windows) - Setting up a Python Development Environment and Complete Overview
+Corey Schafer
+
+### 112
+
+35:01
+
+Matplotlib Tutorial (Part 1): Creating and Customizing Our First Plots
+Corey Schafer
+
+### 113
+
+34:26
+
+Matplotlib Tutorial (Part 2): Bar Charts and Analyzing Data from CSVs
+Corey Schafer
+
+### 114
+
+17:02
+
+Matplotlib Tutorial (Part 3): Pie Charts
+Corey Schafer
+
+### 115
+
+14:49
+
+Matplotlib Tutorial (Part 4): Stack Plots
+Corey Schafer
+
+### 116
+
+15:18
+
+Matplotlib Tutorial (Part 5): Filling Area on Line Plots
+Corey Schafer
+
+### 117
+
+16:36
+
+Matplotlib Tutorial (Part 6): Histograms
+Corey Schafer
+
+### 118
+
+21:24
+
+Matplotlib Tutorial (Part 7): Scatter Plots
+Corey Schafer
+
+### 119
+
+17:09
+
+Matplotlib Tutorial (Part 8): Plotting Time Series Data
+Corey Schafer
+
+### 120
+
+20:34
+
+Matplotlib Tutorial (Part 9): Plotting Live Data in Real-Time
+Corey Schafer
+
+### 121
+
+21:22
+
+Matplotlib Tutorial (Part 10): Subplots
+Corey Schafer
+
+### 122
+
+19:01
+
+Python Tutorial: Calling External Commands Using the Subprocess Module
+Corey Schafer
+
+### 123
+
+8:51
+
+Python Quick Tip: The Difference Between "==" and "is" (Equality vs Identity)
+Corey Schafer
+
+### 124
+
+36:05
+
+Python Threading Tutorial: Run Code Concurrently Using the Threading Module
+Corey Schafer
+
+### 125
+
+44:15
+
+Python Multiprocessing Tutorial: Run Code in Parallel Using the Multiprocessing Module
+Corey Schafer
+
+### 126
+
+51:28
+
+Python Data Science Tutorial: Analyzing the 2019 Stack Overflow Developer Survey
+Corey Schafer
+
+### 127
+
+27:10
+
+Python Tutorial: Zip Files - Creating and Extracting Zip Archives
+Corey Schafer
+
+### 128
+
+23:01
+
+Python Pandas Tutorial (Part 1): Getting Started with Data Analysis - Installation and Loading Data
+Corey Schafer
+
+### 129
+
+33:35
+
+Python Pandas Tutorial (Part 2): DataFrame and Series Basics - Selecting Rows and Columns
+Corey Schafer
+
+### 130
+
+17:27
+
+Python Pandas Tutorial (Part 3): Indexes - How to Set, Reset, and Use Indexes
+Corey Schafer
+
+### 131
+
+23:04
+
+Python Pandas Tutorial (Part 4): Filtering - Using Conditionals to Filter Rows and Columns
+Corey Schafer
+
+### 132
+
+40:03
+
+Python Pandas Tutorial (Part 5): Updating Rows and Columns - Modifying Data Within DataFrames
+Corey Schafer
+
+### 133
+
+16:55
+
+Python Pandas Tutorial (Part 6): Add/Remove Rows and Columns From DataFrames
+Corey Schafer
+
+### 134
+
+15:40
+
+Python Pandas Tutorial (Part 7): Sorting Data
+Corey Schafer
+
+### 135
+
+49:06
+
+Python Pandas Tutorial (Part 8): Grouping and Aggregating - Analyzing and Exploring Your Data
+Corey Schafer
+
+### 136
+
+31:54
+
+Python Pandas Tutorial (Part 9): Cleaning Data - Casting Datatypes and Handling Missing Values
+Corey Schafer
+
+### 137
+
+35:41
+
+Python Pandas Tutorial (Part 10): Working with Dates and Time Series Data
+Corey Schafer
+
+### 138
+
+32:45
+
+Python Pandas Tutorial (Part 11): Reading/Writing Data to Different Sources - Excel, JSON, SQL, Etc
+Corey Schafer
+
+### 139
+
+52:33
+
+Python Tutorial: Real World Example - Using Patreon API and Pillow to Automate Image Creation
+Corey Schafer
+
+### 140
+
+20:49
+
+Python YouTube API Tutorial: Getting Started - Creating an API Key and Querying the API
+Corey Schafer
+
+
+### 141
+
+37:38
+
+Python YouTube API Tutorial: Calculating the Duration of a Playlist
+Corey Schafer
+
+### 142
+
+22:08
+
+Python YouTube API Tutorial: Sort a Playlist by Most Popular Videos
+Corey Schafer
+
+### 143
+
+43:21
+
+Python YouTube API Tutorial: Using OAuth to Access User Accounts
+Corey Schafer
+
+
+-------
 
