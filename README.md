@@ -95,4 +95,21 @@ https://www.python.org/
 
 -------
 
+## YouTube
+
+## Python Tutorials
+https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+
+Python Tutorials. 
+
+An in-depth look at the Python programming language. 
+
+Learn about Python development, tips and tricks, walkthroughs, and best practices.
+
+### Corey Schafer
+
+
+-------
+
+
 
