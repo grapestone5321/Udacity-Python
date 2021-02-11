@@ -108,7 +108,9 @@ Learn about Python development, tips and tricks, walkthroughs, and best practice
 
 ### Corey Schafer
 
+-------
 
+## Python Tutorial for Beginners:
 
 ### 1
 
@@ -169,6 +171,11 @@ Python Tutorial for Beginners 8: Functions
 
 Python Tutorial for Beginners 9: Import Modules and Exploring The Standard Library
 
+-------
+
+## Setting up a Python Development Environment
+
+
 ### 10
 
 26:03
@@ -188,6 +195,10 @@ Setting up a Python Development Environment in Atom
 
 Setting up a Python Development Environment in Eclipse
 
+
+-------
+
+## Python Tutorial
 
 ### 13
 
@@ -363,7 +374,10 @@ Python Tutorial: Decorators With Arguments
 7:21
 
 Python Tutorial: Namedtuple - When and why should you use namedtuples?
-Corey Schafer
+
+-------
+
+## Python OOP Tutorial
 
 ### 40
 
@@ -403,6 +417,10 @@ Python OOP Tutorial 5: Special (Magic/Dunder) Methods
 9:33
 
 Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters
+
+-------
+
+## Python Tutorial
 
 ### 46
 
@@ -516,6 +534,11 @@ Python Tutorial: Custom Sublime Text Build Systems
 
 Python: Ex Machina Easter Egg - Hidden Message within the Code
 
+
+-------
+
+## Python Flask Tutorial
+
 ### 64
 
 17:09
@@ -600,6 +623,10 @@ Python Flask Tutorial: Full-Featured Web App Part 12 - Custom Error Pages
 
 Python Tutorial: Sets - Set Methods and Operations to Solve Common Problems
 
+-------
+
+## Python Django Tutorial
+
 ### 77
 
 15:32
@@ -681,6 +708,10 @@ Python Django Tutorial: Full-Featured Web App Part 12 - Email and Password Reset
 
 Python Django Tutorial: Deploying Your Application (Option #1) - Deploy to a Linux Server
 
+
+-------
+
+## Python Tutorial
 
 ### 90
 
@@ -808,6 +839,9 @@ How to Write Python Scripts to Analyze JSON APIs and Sort Results
 
 Python Tutorial: Clarifying the Issues with Mutable Default Arguments
 
+-------
+
+## Visual Studio Code
 
 ### 110
 
@@ -821,6 +855,11 @@ Visual Studio Code (Mac) - Setting up a Python Development Environment and Compl
 1:15:17
 
 Visual Studio Code (Windows) - Setting up a Python Development Environment and Complete Overview
+
+-------
+
+## Matplotlib Tutorial
+
 
 ### 112
 
@@ -886,6 +925,12 @@ Matplotlib Tutorial (Part 9): Plotting Live Data in Real-Time
 
 Matplotlib Tutorial (Part 10): Subplots
 
+-------
+
+
+## Python Tutorial
+
+
 ### 122
 
 19:01
@@ -925,6 +970,10 @@ Python Data Science Tutorial: Analyzing the 2019 Stack Overflow Developer Survey
 
 Python Tutorial: Zip Files - Creating and Extracting Zip Archives
 
+
+-------
+
+## Python Pandas Tutorial
 
 ### 128
 
@@ -997,11 +1046,20 @@ Python Pandas Tutorial (Part 10): Working with Dates and Time Series Data
 Python Pandas Tutorial (Part 11): Reading/Writing Data to Different Sources - Excel, JSON, SQL, Etc
 
 
+-------
+
+## Python Tutorial
+
+
 ### 139
 
 52:33
 
 Python Tutorial: Real World Example - Using Patreon API and Pillow to Automate Image Creation
+
+-------
+
+## Python YouTube API Tutorial
 
 ### 140
 
