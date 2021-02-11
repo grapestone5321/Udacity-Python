@@ -90,12 +90,12 @@ In this lesson we will apply the skills learned previously by writing a web craw
 
 -------
 
-## python.org
+# python.org
 https://www.python.org/
 
 -------
 
-## YouTube
+# YouTube
 
 ## Python Tutorials
 https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
