@@ -105,12 +105,12 @@ In this lesson we will apply the skills learned previously by writing a web craw
 
 -------
 
-# python.org
+## python.org
 https://www.python.org/
 
 -------
 
-# YouTube
+## YouTube
 
 ## Python Tutorials
 https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
@@ -126,7 +126,7 @@ Learn about Python development, tips and tricks, walkthroughs, and best practice
 
 -------
 
-# GitHub
+## GitHub
 
 ## code_snippets/Python/
 https://github.com/CoreyMSchafer/code_snippets/tree/master/Python
