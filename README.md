@@ -39,10 +39,14 @@ Lastly, you’ll learn to find and use modules in the Python Standard Library an
 
 ### LESSON 1: Welcome to Introduction to Python Programming
 
+- videos: 0  -> 
+
 Welcome to Introduction to Python!
 
 
 ### LESSON 2: [NEW] Why Python Programming
+
+- videos: 2  ->   S1: 1, S2: 1
 
 Welcome to Introduction to Python! 
 
@@ -51,6 +55,8 @@ Here's an overview of the course.
 
 ### LESSON 3: [NEW] Data Types and Operators
 
+- videos: 12  ->   S1: 1, S2: 1, S5: 3, S8: 2, S10: 1, S13: 1, S16: 1, S19: 1, S25: 1
+
 Familiarize yourself with the building blocks of Python! 
 
 Learn about data types and operators, compound data structures, type conversion, built-in functions, and style guidelines.
@@ -58,12 +64,16 @@ Learn about data types and operators, compound data structures, type conversion,
 
 ### LESSON 4: [NEW] Data Structures
 
+- videos: 7  ->   S1: 1, S2: 2, S6: 1, S10: 1, S13: 1, S16: 1
+
 Use data structures to order and group different data types together! 
 
 Learn about the types of data structures in Python, along with more useful built-in functions and operators.
 
 
 ### LESSON 5: [NEW] Control Flow
+
+- videos: 7  ->   S1: 1, S2: 2, S6: 1, S10: 1, S13: 1, S16: 1
 
 Build logic into your code with control flow tools! 
 
@@ -80,6 +90,8 @@ Learn about functions, variable scope, documentation, lambda expressions, iterat
 
 
 ### LESSON 7: [NEW] Scripting
+
+- videos: 7  ->   S1: 1, S2: 2, S6: 1, S10: 1, S13: 1, S16: 1
 
 Setup your own programming environment to write and run Python scripts locally! 
 
