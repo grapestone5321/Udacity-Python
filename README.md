@@ -64,6 +64,8 @@ Build logic into your code with control flow tools! Learn about conditional stat
 
 ### LESSON 6: [NEW] Functions
 
+- videos: 7  ->   S1: 1, S2: 2, S6: 1, S10: 1, S13: 1, S16: 1
+
 Learn how to use functions to improve and reuse your code! Learn about functions, variable scope, documentation, lambda expressions, iterators, and generators.
 
 
