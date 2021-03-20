@@ -44,39 +44,55 @@ Welcome to Introduction to Python!
 
 ### LESSON 2: [NEW] Why Python Programming
 
-Welcome to Introduction to Python! Here's an overview of the course.
+Welcome to Introduction to Python! 
+
+Here's an overview of the course.
 
 
 ### LESSON 3: [NEW] Data Types and Operators
 
-Familiarize yourself with the building blocks of Python! Learn about data types and operators, compound data structures, type conversion, built-in functions, and style guidelines.
+Familiarize yourself with the building blocks of Python! 
+
+Learn about data types and operators, compound data structures, type conversion, built-in functions, and style guidelines.
 
 
 ### LESSON 4: [NEW] Data Structures
 
-Use data structures to order and group different data types together! Learn about the types of data structures in Python, along with more useful built-in functions and operators.
+Use data structures to order and group different data types together! 
+
+Learn about the types of data structures in Python, along with more useful built-in functions and operators.
 
 
 ### LESSON 5: [NEW] Control Flow
 
-Build logic into your code with control flow tools! Learn about conditional statements, repeating code with loops and useful built-in functions, and list comprehensions.
+Build logic into your code with control flow tools! 
+
+Learn about conditional statements, repeating code with loops and useful built-in functions, and list comprehensions.
 
 
 ### LESSON 6: [NEW] Functions
 
 - videos: 7  ->   S1: 1, S2: 2, S6: 1, S10: 1, S13: 1, S16: 1
 
-Learn how to use functions to improve and reuse your code! Learn about functions, variable scope, documentation, lambda expressions, iterators, and generators.
+Learn how to use functions to improve and reuse your code! 
+
+Learn about functions, variable scope, documentation, lambda expressions, iterators, and generators.
 
 
 ### LESSON 7: [NEW] Scripting
 
-Setup your own programming environment to write and run Python scripts locally! Learn good scripting practices, interact with different inputs, and discover awesome tools.
+Setup your own programming environment to write and run Python scripts locally! 
+
+Learn good scripting practices, interact with different inputs, and discover awesome tools.
 
 
 ### LESSON 8: [NEW] Advanced Topics
 
-In this lesson we cover some advanced topics of iterators and generators. You are not required to complete this but we have provided these to give you a taste of these.
+- videos: 1  ->   S2: 1
+
+In this lesson we cover some advanced topics of iterators and generators. 
+
+You are not required to complete this but we have provided these to give you a taste of these.
 
 
 ### LESSON 9: Numbers and Strings
