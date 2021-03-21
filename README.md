@@ -73,7 +73,7 @@ Learn about the types of data structures in Python, along with more useful built
 
 ### LESSON 5: [NEW] Control Flow
 
-- videos: 7  ->   S1: 1, S2: 2, S6: 1, S10: 1, S13: 1, S16: 1
+- videos: 13  ->   S1: 1, S2: 3, S7: 3, S10: 1, S20: 1, S28: 1, S33: 1, S36: 1, S41: 1
 
 Build logic into your code with control flow tools! 
 
