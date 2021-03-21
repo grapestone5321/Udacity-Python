@@ -91,7 +91,7 @@ Learn about functions, variable scope, documentation, lambda expressions, iterat
 
 ### LESSON 7: [NEW] Scripting
 
-- videos: 7  ->   S1: 1, S2: 2, S6: 1, S10: 1, S13: 1, S16: 1
+- videos: 18  ->   S1: 1, S2: 1, S5: 1, S6: 1, S8: 1, S11: 1, S13: 2, S17: 3, S22: 1, S23: 1, S26: 2, S28: 1, S29: 1, S33: 1
 
 Setup your own programming environment to write and run Python scripts locally! 
 
