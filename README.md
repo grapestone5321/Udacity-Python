@@ -64,7 +64,7 @@ Learn about data types and operators, compound data structures, type conversion,
 
 ### LESSON 4: [NEW] Data Structures
 
-- videos: 7  ->   S1: 1, S2: 2, S6: 1, S10: 1, S13: 1, S16: 1
+- videos: 10  ->   S1: 1, S2: 3, S6: 2, S9: 1, S11: 1, S13: 1, S19: 1
 
 Use data structures to order and group different data types together! 
 
