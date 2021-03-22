@@ -37,72 +37,72 @@ You’ll define and document your own custom functions, write scripts, and handl
 Lastly, you’ll learn to find and use modules in the Python Standard Library and other third-party libraries.
 
 
-### LESSON 1: Welcome to Introduction to Python Programming
+## LESSON 1: Welcome to Introduction to Python Programming
 
 - videos: 0  -> 
 
-Welcome to Introduction to Python!
+### Welcome to Introduction to Python!
 
 
-### LESSON 2: [NEW] Why Python Programming
+## LESSON 2: [NEW] Why Python Programming
 
 - videos: 2  ->   S1: 1, S2: 1
 
-Welcome to Introduction to Python! 
+### Welcome to Introduction to Python! 
 
 Here's an overview of the course.
 
 
-### LESSON 3: [NEW] Data Types and Operators
+## LESSON 3: [NEW] Data Types and Operators
 
 - videos: 12  ->   S1: 1, S2: 1, S5: 3, S8: 2, S10: 1, S13: 1, S16: 1, S19: 1, S25: 1
 
-Familiarize yourself with the building blocks of Python! 
+### Familiarize yourself with the building blocks of Python! 
 
 Learn about data types and operators, compound data structures, type conversion, built-in functions, and style guidelines.
 
 
-### LESSON 4: [NEW] Data Structures
+## LESSON 4: [NEW] Data Structures
 
 - videos: 10  ->   S1: 1, S2: 3, S6: 2, S9: 1, S11: 1, S13: 1, S19: 1
 
-Use data structures to order and group different data types together! 
+### Use data structures to order and group different data types together! 
 
 Learn about the types of data structures in Python, along with more useful built-in functions and operators.
 
 
-### LESSON 5: [NEW] Control Flow
+## LESSON 5: [NEW] Control Flow
 
 - videos: 13  ->   S1: 1, S2: 3, S7: 3, S10: 1, S20: 1, S28: 1, S33: 1, S36: 1, S41: 1
 
-Build logic into your code with control flow tools! 
+### Build logic into your code with control flow tools! 
 
 Learn about conditional statements, repeating code with loops and useful built-in functions, and list comprehensions.
 
 
-### LESSON 6: [NEW] Functions
+## LESSON 6: [NEW] Functions
 
 - videos: 7  ->   S1: 1, S2: 2, S6: 1, S10: 1, S13: 1, S16: 1
 
-Learn how to use functions to improve and reuse your code! 
+### Learn how to use functions to improve and reuse your code! 
 
 Learn about functions, variable scope, documentation, lambda expressions, iterators, and generators.
 
 
-### LESSON 7: [NEW] Scripting
+## LESSON 7: [NEW] Scripting
 
 - videos: 18  ->   S1: 1, S2: 1, S5: 1, S6: 1, S8: 1, S11: 1, S13: 2, S17: 3, S22: 1, S23: 1, S26: 2, S28: 1, S29: 1, S33: 1
 
-Setup your own programming environment to write and run Python scripts locally! 
+### Setup your own programming environment to write and run Python scripts locally! 
 
 Learn good scripting practices, interact with different inputs, and discover awesome tools.
 
 
-### LESSON 8: [NEW] Advanced Topics
+## LESSON 8: [NEW] Advanced Topics
 
 - videos: 1  ->   S2: 1
 
-In this lesson we cover some advanced topics of iterators and generators. 
+### In this lesson we cover some advanced topics of iterators and generators. 
 
 You are not required to complete this but we have provided these to give you a taste of these.
 
