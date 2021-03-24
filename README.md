@@ -48,6 +48,11 @@ Lastly, you’ll learn to find and use modules in the Python Standard Library an
 
 - videos: 2  ->   S1: 1, S2: 1
 
+- S1: 1, Welcome to the Course!
+
+- S2: 1, Programming in Python
+
+
 ### Welcome to Introduction to Python! 
 
 Here's an overview of the course.
