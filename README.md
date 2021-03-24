@@ -85,6 +85,21 @@ Learn about data types and operators, compound data structures, type conversion,
 
 - videos: 10  ->   S1: 1, S2: 3, S6: 2, S9: 1, S11: 1, S13: 1, S19: 1
 
+- S1: 1, Introduction
+
+- S2: 3, Lists and Membership Operators
+
+- S6: 2, List Methods
+
+- S9: 1, Tuples
+
+- S11: 1, Sets
+
+- S13: 1, Dictionaries and Identity Operators
+
+- S19: 1, Compound Data Structures
+
+
 ### Use data structures to order and group different data types together! 
 
 Learn about the types of data structures in Python, along with more useful built-in functions and operators.
@@ -94,6 +109,25 @@ Learn about the types of data structures in Python, along with more useful built
 
 - videos: 13  ->   S1: 1, S2: 3, S7: 3, S10: 1, S20: 1, S28: 1, S33: 1, S36: 1, S41: 1
 
+- S1: 1, Introduction
+
+- S2: 3, Conditional Statements
+
+- S7: 3, Boolean Expressions for Conditions
+
+- S10: 1, For Loops
+
+- S20: 1, While Loops
+
+- S28: 1, Break, Continue
+
+- S33: 1, Zip and Enumerate
+
+- S36: 1, List Comprehensions
+
+- S41: 1, Conclusion
+
+
 ### Build logic into your code with control flow tools! 
 
 Learn about conditional statements, repeating code with loops and useful built-in functions, and list comprehensions.
@@ -102,6 +136,18 @@ Learn about conditional statements, repeating code with loops and useful built-i
 ## LESSON 6: [NEW] Functions
 
 - videos: 7  ->   S1: 1, S2: 2, S6: 1, S10: 1, S13: 1, S16: 1
+
+- S1: 1, Introduction
+
+- S2: 2, Defining Functions
+
+- S6: 1, Variable Scope
+
+- S10: 1, Documentation
+
+- S13: 1, Lambda Expressions
+
+- S16: 1, Conclusion
 
 ### Learn how to use functions to improve and reuse your code! 
 
