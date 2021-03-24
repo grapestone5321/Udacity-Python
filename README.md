@@ -57,23 +57,23 @@ Here's an overview of the course.
 
 - videos: 12  ->   S1: 1, S2: 1, S5: 3, S8: 2, S10: 1, S13: 1, S16: 1, S19: 1, S25: 1
 
-- S1: 1, 
+- S1: 1, Introduction
 
-- S2: 1, 
+- S2: 1, Arithmetic Operators
 
-- S5: 3, 
+- S5: 3, Variables and Assignment Operators
 
-- S8: 2, 
+- S8: 2, Integers and Floats
 
-- S10: 1, 
+- S10: 1, Booleans, Comparison Operators, and Logical Operators
 
-- S13: 1, 
+- S13: 1, Strings
 
-- S16: 1, 
+- S16: 1, Type and Type Conversion
 
-- S19: 1, 
+- S19: 1, String Methods
 
-- S25: 1
+- S25: 1, Conclusion
 
 
 ### Familiarize yourself with the building blocks of Python! 
