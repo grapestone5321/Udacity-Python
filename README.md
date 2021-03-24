@@ -57,6 +57,25 @@ Here's an overview of the course.
 
 - videos: 12  ->   S1: 1, S2: 1, S5: 3, S8: 2, S10: 1, S13: 1, S16: 1, S19: 1, S25: 1
 
+- S1: 1, 
+
+- S2: 1, 
+
+- S5: 3, 
+
+- S8: 2, 
+
+- S10: 1, 
+
+- S13: 1, 
+
+- S16: 1, 
+
+- S19: 1, 
+
+- S25: 1
+
+
 ### Familiarize yourself with the building blocks of Python! 
 
 Learn about data types and operators, compound data structures, type conversion, built-in functions, and style guidelines.
