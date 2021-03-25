@@ -163,6 +163,35 @@ Learn about functions, variable scope, documentation, lambda expressions, iterat
 
 - videos: 18  ->   S1: 1, S2: 1, S5: 1, S6: 1, S8: 1, S11: 1, S13: 2, S17: 3, S22: 1, S23: 1, S26: 2, S28: 1, S29: 1, S33: 1
 
+- S1: 1, Introduction
+
+- S2: 1, Python Installation
+
+- S5: 1, Running a Python Script
+
+- S6: 1, Programming Environment Setup
+
+- S8: 1, Scripting with Raw Input
+
+- S11: 1, Errors and Exceptions
+
+- S13: 2, Handling Errors
+
+- S17: 3, Reading and Writing Files
+
+- S22: 1, Importing Local Scripts
+
+- S23: 1, The Standard Library
+
+- S26: 2, Techniques for Importing Modules
+
+- S28: 1, Third-Party Libraries
+
+- S29: 1, Experimenting with an Interpreter
+
+- S33: 1, Conclusion
+
+
 ### Setup your own programming environment to write and run Python scripts locally! 
 
 Learn good scripting practices, interact with different inputs, and discover awesome tools.
@@ -171,6 +200,8 @@ Learn good scripting practices, interact with different inputs, and discover awe
 ## LESSON 8: [NEW] Advanced Topics
 
 - videos: 1  ->   S2: 1
+
+- S2: 1, [Optional] Iterators and Generators
 
 ### In this lesson we cover some advanced topics of iterators and generators. 
 
