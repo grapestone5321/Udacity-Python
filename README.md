@@ -1246,3 +1246,12 @@ Python YouTube API Tutorial: Using OAuth to Access User Accounts
 
 -------
 
+
+## Python Tutorial - Python for Beginners [Full Course]
+https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=71s
+
+
+-------
+
+
+
