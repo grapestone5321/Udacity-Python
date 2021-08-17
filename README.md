@@ -23,7 +23,7 @@ https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
 -------
 
 
-## 1. Introduction to Python Programming
+## 1. Introduction to Python Programming: Udacity
 
 Learn to solve practical problems with Python
 
@@ -267,6 +267,9 @@ https://github.com/CoreyMSchafer/code_snippets/tree/master/Python
 -------
 
 ## Python Tutorial for Beginners:
+
+
+
 
 ### 1
 
