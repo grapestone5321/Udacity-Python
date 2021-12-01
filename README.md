@@ -1257,5 +1257,12 @@ https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=71s
 
 -------
 
+## Python Backend Web Development Course (with Django)
+https://www.youtube.com/watch?v=jBzwzrDvZ18&t=9637s
+
+
+
+
+-------
 
 
