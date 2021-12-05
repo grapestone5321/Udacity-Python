@@ -1261,6 +1261,13 @@ https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=71s
 https://www.youtube.com/watch?v=jBzwzrDvZ18&t=9637s
 
 
+-------
+
+## Python for Everybody - Full University Python Course
+https://www.youtube.com/watch?v=8DvywoWv6fI&t=2861s
+
+
+freeCodeCamp.org
 
 
 -------
