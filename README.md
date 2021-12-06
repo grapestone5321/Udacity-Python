@@ -17,14 +17,16 @@ https://www.python.org/
 https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
 
 
-
+### 2. Python for Everybody - Full University Python Course
+https://www.youtube.com/watch?v=8DvywoWv6fI&t=2861s
 
 
 
 -------
 
+# Udacity
 
-## 1. Introduction to Python Programming: Udacity
+# 1. Introduction to Python Programming: 
 https://classroom.udacity.com/courses/ud1110
 
 Learn to solve practical problems with Python
