@@ -1272,6 +1272,12 @@ freeCodeCamp.org
 ## Python for Everybody
 https://www.py4e.com/book
 
+## Python for Everybody: Exploring Data Using Python 3
+Dr. Charles R. Severance
+
+http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
+
+
 ### Course Contents 
 
 ### Chapter 1,2: 
