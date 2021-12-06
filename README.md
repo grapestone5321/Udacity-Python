@@ -1280,7 +1280,7 @@ http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
 
 ### Course Contents 
 
-### Chapter 1,2: 
+### Chapter 1: Why should you learn to write programs?
 - (0:00:00) Why Program?
 - (0:12:21) Why Program? - Hardware Architecture
 - (0:24:24) Python 3 Windows Installation
@@ -1288,19 +1288,19 @@ http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
 - (0:36:41) Why Program? - Python as a Language
 - (0:44:17) Why Program? - What do we say?
 
-### Chapter 3: Variables, Expressions, and Statements
+### Chapter 2: Variables, Expressions, and Statements
 - (0:56:55) Variables, Expressions, and Statements
 - (1:06:20) Variables, Expressions, and Statements - Expressions
 
-### Chapter 4: Conditional Execution
+### Chapter 3: Conditional Execution
 - (1:26:00) Conditional Execution
 - (1:39:13) Conditional Execution - More Conditional Structures
 
-### Chapter 5: Functions
+### Chapter 4: Functions
 - (1:52:48) Functions
 - (2:03:02) Functions - Functions of our own
 
-### Chapter 6: Loops and Iteration
+### Chapter 5: Loops and Iteration
 - (2:15:21) Loops and Iteration
 - (2:25:04) Loops and Iteration - Definite Loops
 - (2:31:40) Loops and Iteration - Loop Idioms
