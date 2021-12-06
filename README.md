@@ -1269,6 +1269,9 @@ https://www.youtube.com/watch?v=8DvywoWv6fI&t=2861s
 
 freeCodeCamp.org
 
+## Python for Everybody
+https://www.py4e.com/book
+
 ### Course Contents 
 
 ### Chapter 1,2: 
