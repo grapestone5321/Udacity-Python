@@ -1380,7 +1380,7 @@ http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
 - (11:09:37) Databases - Code Sample: roster.py
 - (11:20:40) Databases - Code Sample: twspider.py
 
-### Chapter 16:
+### Chapter 16: Data Visualization
 - (11:20:40) Data Visualization
 - (11:48:18) Data Visualization - Code Sample: Geodata
 - (12:01:05) Data Visualization - Page Rank
