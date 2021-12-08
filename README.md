@@ -808,7 +808,7 @@ https://www.youtube.com/watch?v=jBzwzrDvZ18&t=9637s
 
 -------
 
-## Python for Everybody - Full University Python Course
+# Python for Everybody - Full University Python Course
 https://www.youtube.com/watch?v=8DvywoWv6fI&t=2861s
 
 
@@ -940,7 +940,7 @@ http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
 -------
 
 
-## Django For Everybody - Full Python University Course
+# Django For Everybody - Full Python University Course
 https://www.youtube.com/watch?v=o0XbHvKxw7Y&t=12073s
 
 
@@ -1055,7 +1055,7 @@ He is a Professor at the University of Michigan School of Information, where he 
 
 -------
 
-## Django Tutorial for Beginners [2021]
+# Django Tutorial for Beginners [2021]
 https://www.youtube.com/watch?v=rHux0gMZ3Eg
 
 
