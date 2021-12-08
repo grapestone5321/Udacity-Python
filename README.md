@@ -1053,5 +1053,67 @@ He is a Professor at the University of Michigan School of Information, where he 
 - 18:03:10 Behind the Scenes: Welcome to Django for Everybody - Why Django?
 
 
+-------
+
+## Django Tutorial for Beginners [2021]
+https://www.youtube.com/watch?v=rHux0gMZ3Eg
+
+
+
+Programming with Mosh
+
+Django Tutorial for Beginners - Learn Django for a career in back-end development.  
+
+This Django tutorial teaches you everything you need to get started.
+
+- Get the complete Django course (zero to hero): https://bit.ly/3A7l7qj
+- Subscribe for more Django tutorials like this: https://goo.gl/6PYaGF
+
+Other resources:
+
+Python Tutorial for Beginners: https://youtu.be/_uQrJ0TkZlc
+
+MySQL Tutorial for Beginners: https://youtu.be/7S_tz1z_5bA
+
+Want to learn more from me? Check out these links: 
+
+- Courses: https://codewithmosh.com
+- Twitter: https://twitter.com/moshhamedani
+- Facebook: https://www.facebook.com/programmingw...
+- Blog: https://programmingwithmosh.com 
+
+### TABLE OF CONTENT 
+
+- 0:00:00 – Introduction
+- 0:00:58 – Prerequisites
+- 0:01:38 – How to Take this Course
+- 0:02:40 – Getting Started with Django 
+- 0:03:19 – What is Django?
+- 0:06:08 – How the Web Works
+- 0:10:32 – Setting Up the Development Environment 
+- 0:12:33 – Creating Your First Django Project
+- 0:18:44 – Using the Integrated Terminal in VSCode 
+- 0:22:05 – Creating Your First App
+- 0:25:36 – Writing Views
+- 0:27:27 – Mapping URLs to Views
+- 0:32:10 – Using Templates
+- 0:36:19 – Debugging Django Applications in VSCode 
+- 0:44:11 – Using Django Debug Toolbar
+- 0:48:37 – Building a Data Model 
+- 0:49:21 – Introduction to Date Modeling
+- 0:52:00 – Building an E-Commerce Data Model 
+- 0:56:35 – Organizing Models in Apps
+
+#Django #Python 
+
+Django is the most popular framework for quickly building production-grade backends with Python. 
+
+That's why a lot of companies use it and are looking for developers with Django skills. 
+
+If you know Python and are looking for a career in backend development, you must have Django on your resume.
+
+
+
+-------
 
 
