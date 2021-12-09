@@ -1115,7 +1115,21 @@ That's why a lot of companies use it and are looking for developers with Django 
 If you know Python and are looking for a career in backend development, you must have Django on your resume.
 
 
-
+-------
 -------
 
+# Django
+https://www.djangoproject.com/
+
+
+
+## Django documentation
+https://docs.djangoproject.com/en/4.0/
+
+
+
+
+
+
+-------
 
