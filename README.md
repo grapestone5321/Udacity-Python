@@ -1316,7 +1316,7 @@ https://ihts.pr4e.com/
 https://do1.dr-chuck.net/net-intro/EN_us/net-intro.pdf
 
 
-### 1: 9:13 elcome to Internet History, Technology, and Security
+### 1: 9:13 Welcome to Internet History, Technology, and Security
 Chuck Severance
 
 ### 2: 7:23 High Stakes Research in Computing and Communication
