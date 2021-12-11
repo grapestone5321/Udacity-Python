@@ -1498,6 +1498,53 @@ Chuck Severance
 
 https://www.pg4e.com
 
+1: Single Table SQL
+
+Single Table SQL
+
+
+2: Data Relationships
+
+Multi-Table SQL and Relationships.
+
+
+3: SQL Techniques
+
+Intermediate PostgreSQL techniques.
+
+4: Text in PostgreSQL
+
+Handling text in PostgreSQL (but not Natural Language).
+
+
+5: Natural Language
+
+Handling Natural Language fields and indexes in PostgreSQL.
+
+
+6: Python and PostgreSQL
+
+Using PostgreSQL with Python. Using PostgreSQL to retrieve and store API
+
+
+7: JSON and PostgreSQL
+
+Handling JSON in PostgreSQL.
+
+
+8: Database Architectures
+
+Database architectures, production deplopyment, scalability, and NoSQL.
+
+
+
+9: Elastic Search
+
+Using ElasticSearch to explore NoSQL.
+
+
+
+
 
 
 1
