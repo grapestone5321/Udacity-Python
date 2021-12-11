@@ -1214,16 +1214,25 @@ He is a professor at the University of Michigan and is one of the most popular P
 
 ### Course Contents
 
+### 1: Introduction to Dynamic Web Content
 - (00:00:00) Web Applications and the Request/Response Cycle
 - (00:16:56) Understanding Browser Developer Mode
+
+### 2: HyperText Markup Language (HTML)
 - (00:25:42) HTML - HyperText Markup Language (Part 1)
 - (00:31:37) HTML - HyperText Markup Language (Part 2)
 - (00:45:32) Code Walkthrough: HTML
+
+### 3: Cascading Style Sheets (CSS)
 - (00:59:32) CSS - Cascading Style Sheets (Part 1)
 - (01:12:35) CSS - Cascading Style Sheets (Part 2)
 - (01:27:40) CSS - Cascading Style Sheets (Part 3)
+
+### 4: Installing PHP and SQL
 - (01:41:21) Code Walkthrough: CSS - Part 1
 - (01:54:49) Code Walkthrough: CSS Part 2
+
+
 - (02:20:40) Installing MAMP on Macintosh for PHP/MySql
 - (02:27:42) Installing MAMP on Windows-10 for PHP/MySql
 - (02:42:15) Installing XAMPP on Windows for PHP/MySql
