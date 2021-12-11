@@ -1315,7 +1315,7 @@ https://ihts.pr4e.com/
 ### Introduction to Networking
 https://do1.dr-chuck.net/net-intro/EN_us/net-intro.pdf
 
-
+## 1: History: Dawn of Electronic Computing
 ### 1: 9:13 Welcome to Internet History, Technology, and Security
 Chuck Severance
 
@@ -1346,6 +1346,7 @@ ieeeComputerSociety
 ### 10: 1:18 Barcelona IHTS Coursera Office Hours (2012-10-27)
 Chuck Severance
 
+## 2: History: Research and Design of Packet Networks
 ### 11: 5:42 (010) Packet Switched Networks
 Chuck Severance
 
@@ -1373,6 +1374,7 @@ ieeeComputerSociety
 ### 19: 2:29 (018) Expanding NSFNet Around the World
 Chuck Severance
 
+## 3: History: The Web Makes it Easy to Use
 ### 20: 12:47 Nii Quaynor: Bringing the Internet to Africa
 ieeeComputerSociety
 
@@ -1388,6 +1390,7 @@ Chuck Severance
 ### 24: 12:24 Steve Job's Second-Order Effects (High resolution)
 ieeeComputerSociety
 
+## 4: History: Commercialization and Growth
 ### 25: 4:01 (022) Mosaic at NCSA - The Browser for Everybody
 Chuck Severance
 
@@ -1415,6 +1418,7 @@ ieeeComputerSociety
 ### 33: 0:27 (029) Open Source Wrap Up
 Chuck Severance
 
+## 5: Technology: Internets and Packets
 ### 34: 26:07 (030) Introduction: Link Layer
 Chuck Severance
 
@@ -1430,6 +1434,7 @@ ieeeComputerSociety
 ### 38: 7:44 (034) DNS - The Domain Name System
 Chuck Severance
 
+## 6: Technology: Transport Control Protocol (TCP)
 ### 39: 9:30 (035) Transport Layer
 Chuck Severance
 
@@ -1439,18 +1444,21 @@ ieeeComputerSociety
 ### 41: 2:07 (037) TCP Wrap Up
 Chuck Severance
 
+## 7: Technology: Application Protocols
 ### 42: 25:23  (037A) Application Layer
 Chuck Severance
 
 ### 43 10:01 Computing Conversations: Van Jacobson on Content-Centric Networking
 ieeeComputerSociety
 
+## 8: Security: Encrypting and Signing
 ### 44 2:24 (038) Security Introduction
 Chuck Severance
 
 ### 45: 7:33 Bruce Schneier: The Security Mindset
 ieeeComputerSociety
 
+## 9: Security: Web Security
 ### 46: 9:15 (040) Understanding Security
 Chuck Severance
 
@@ -1475,6 +1483,7 @@ Jacob Berkowitz
 ### 53: 19:05 (046) Security - Integrity and Certificate Authorities
 Chuck Severance
 
+## 10: Final Exam and Graduation
 ### 54: 7:26 MOOC Graduation Video with Curt Bonk as Commencement Speaker
 Chuck Severance
 
