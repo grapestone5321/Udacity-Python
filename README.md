@@ -1491,9 +1491,409 @@ Chuck Severance
 -------
 -------
 
+# PostgreSQL for Everybody
+https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Oj3ndXmNS1FFOUyQP-gEa
+
+Chuck Severance
+
+https://www.pg4e.com
+
+
+
+1
+
+7:33
+NOW PLAYING
+Welcome to PostgreSQL for Everybody - Why PostgreSQL?
+Chuck Severance
+
+2
+
+9:38
+NOW PLAYING
+Using PythonAnywhere to run SQL
+Chuck Severance
+
+3
+
+6:53
+NOW PLAYING
+Using the DBeaver Client to Run SQL Commands
+Chuck Severance
+
+4
+
+6:48
+NOW PLAYING
+PostgreSQL Musical Track Database (CSV)
+Chuck Severance
+
+5
+
+15:05
+NOW PLAYING
+PostgreSQL Demonstration: Database Design and Many to Many
+Chuck Severance
+
+6
+
+6:24
+NOW PLAYING
+PostgreSQL Demonstration: Creating and Loading a Database
+Chuck Severance
+
+7
+
+8:04
+NOW PLAYING
+PostgreSQL Demonstration: SELECT DISTINCT
+Chuck Severance
+
+8
+
+6:36
+NOW PLAYING
+PosgreSQL Demonstration: GROUP BY
+Chuck Severance
+
+9
+
+8:21
+NOW PLAYING
+PostgreSQL Demonstration: Sub Query
+Chuck Severance
+
+10
+
+19:36
+NOW PLAYING
+PostgreSQL Demonstration: Transactions
+Chuck Severance
+
+11
+
+5:52
+NOW PLAYING
+PostgreSQL Demonstration: Stored Procedures
+Chuck Severance
+
+12
+
+9:21
+NOW PLAYING
+PostgreSQL Demonstration: Loading and Normalizing CSV Data
+Chuck Severance
+
+13
+
+11:17
+NOW PLAYING
+PostgreSQL Demonstration: Generating and Scanning Text
+Chuck Severance
+
+14
+
+9:53
+NOW PLAYING
+PostgreSQL Demonstration: Regular Expressions
+Chuck Severance
+
+15
+
+7:42
+NOW PLAYING
+PostgreSQL Demonstration: Flat files, Regular Expressions, Storing Email
+Chuck Severance
+
+16
+
+9:04
+NOW PLAYING
+Lecture: 05 FullText 01 Blocks 1080
+Chuck Severance
+
+17
+
+15:57
+NOW PLAYING
+Lecture: 05 FullText 02 Index 1080
+Chuck Severance
+
+18
+
+6:54
+NOW PLAYING
+Lecture: 05 FullText 03 Invert SQL 1080
+Chuck Severance
+
+19
+
+10:41
+NOW PLAYING
+Demonstration: 05 01 Inverted SQL edited
+Chuck Severance
+
+20
+
+10:51
+NOW PLAYING
+Lecture: 05 FullText 04 Invert PG 1080
+Chuck Severance
+
+21
+
+5:29
+NOW PLAYING
+Demonstration: 05 02 String GIN raw
+Chuck Severance
+
+22
+
+6:14
+NOW PLAYING
+Lecture: 05 FullText 05 Natural SQL 1080
+Chuck Severance
+
+23
+
+17:40
+NOW PLAYING
+Demonstration: 05 03 stop stem raw
+Chuck Severance
+
+24
+
+9:10
+NOW PLAYING
+Lecture: 05 FullText 06 Natural PG 1080
+Chuck Severance
+
+25
+
+6:50
+NOW PLAYING
+Demonstration: 05 04 fulltext functions raw
+Chuck Severance
+
+26
+
+5:53
+NOW PLAYING
+Demonstration: 05 05 tsvector gin raw
+Chuck Severance
+
+27
+
+5:25
+NOW PLAYING
+Lecture: PY-PG 06 01 Python 1080
+Chuck Severance
+
+28
+
+16:16
+NOW PLAYING
+Demonstration: 06 01 simple raw
+Chuck Severance
+
+29
+
+12:55
+NOW PLAYING
+Demonstration: Book 06 02 loadbook raw
+Chuck Severance
+
+30
+
+4:13
+NOW PLAYING
+Lecture: Mail 06 02 Gmane
+Chuck Severance
+
+31
+
+16:33
+NOW PLAYING
+Demonstration: Mail 1/3 06 03 gmane raw
+Chuck Severance
+
+32
+
+10:37
+NOW PLAYING
+Demonstration: Mail 2/3 06 04 gmane edited
+Chuck Severance
+
+33
+
+4:11
+NOW PLAYING
+Lecture: Ranking 06 03 Rank 1080
+Chuck Severance
+
+34
+
+7:10
+NOW PLAYING
+Demonstration: Mail 3/3 06 05 gmane raw
+Chuck Severance
+
+35
+
+11:05
+NOW PLAYING
+Lecture: JSON 06 04 JSON 1080
+Chuck Severance
+
+36
+
+6:47
+NOW PLAYING
+Lecture: 06 05 JSON Python 1080
+Chuck Severance
+
+37
+
+11:10
+NOW PLAYING
+Lecture: PG+JSONB 06 06 PostgreSQL JSON 1080
+Chuck Severance
+
+38
+
+26:51
+NOW PLAYING
+Demonstration: Tracks 06 06 jsonb raw
+Chuck Severance
+
+39
+
+2:50
+NOW PLAYING
+Lecture: 06 07 Swapi 1080
+Chuck Severance
+
+40
+
+16:34
+NOW PLAYING
+Demonstration: API 1/2 06 07 swapi raw
+Chuck Severance
+
+41
+
+15:36
+NOW PLAYING
+Demonstration: API 2/2 06 08 swapi raw
+Chuck Severance
+
+42
+
+18:42
+NOW PLAYING
+Database Architectures (07 01 acid base)
+Chuck Severance
+
+43
+
+11:16
+NOW PLAYING
+Scaling ACID Databases (07 02 acid scale) (fixed)
+Chuck Severance
+
+44
+
+10:33
+NOW PLAYING
+True Cloud Applications (Part 1) 07 03 cloud first gen 1 1080
+Chuck Severance
+
+45
+
+13:19
+NOW PLAYING
+First Generation Cloud Applications (Part 2) (07 04 cloud first gen 2 fixed)
+Chuck Severance
+
+46
+
+8:34
+NOW PLAYING
+Second Generation Cloud Applications (07 05 cloud second gen fixed)1080
+Chuck Severance
+
+47
+
+12:40
+NOW PLAYING
+Emerging BASE Databases 07 06 base
+Chuck Severance
+
+48
+
+17:50
+NOW PLAYING
+Evolving ACID Databases (07 07 acid reaction 1080)
+Chuck Severance
+
+49
+
+11:28
+NOW PLAYING
+Elastic Search Overview (7.x)
+Chuck Severance
+
+50
+
+4:08
+NOW PLAYING
+Elastic Search 7.x Python Code
+Chuck Severance
+
+51
+
+10:00
+NOW PLAYING
+Demonstration: Loading a book into Elastic Search
+Chuck Severance
+
+52
+
+9:04
+NOW PLAYING
+Demonstration: Using Elastic Search's REST API
+Chuck Severance
+
+53
+
+8:53
+NOW PLAYING
+Demonstration: Scraping an Email API and Loading it into Elastic Search
+Chuck Severance
+
+54
+
+5:50
+NOW PLAYING
+Demonstration: Loading A Tweet into Elastic Search
+Chuck Severance
+
+55
+
+11:30
+NOW PLAYING
+Why Combine Pandas and SQL
+Chuck Severance
+
+56
+
+5:18
+NOW PLAYING
+Using SQL in Pandas
+Chuck Severance
 
 
 
 
 
-
+-----
