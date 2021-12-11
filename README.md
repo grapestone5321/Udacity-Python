@@ -1303,15 +1303,17 @@ He is a professor at the University of Michigan and is one of the most popular P
 
 -------
 
-
-
 # Internet History, Technology, and Security
 https://www.youtube.com/playlist?list=PLlRFEj9H3Oj6-srSAgLb-ZGVNGlo3v14X
 
 Chuck Severance
 
-###This play list holds the videos for my Internet History, Technology and Security which is available at ihts.pr4e.com and on Coursera.
+### This play list holds the videos for my Internet History, Technology and Security which is available at ihts.pr4e.com and on Coursera.
 https://ihts.pr4e.com/
+
+
+### Introduction to Networking
+https://do1.dr-chuck.net/net-intro/EN_us/net-intro.pdf
 
 
 ### 1: 9:13 elcome to Internet History, Technology, and Security
