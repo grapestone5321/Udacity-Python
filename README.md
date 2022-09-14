@@ -11,6 +11,8 @@ https://classroom.udacity.com/courses/ud1110
 ### 1. python.org
 https://www.python.org/
 
+-----
+
 ## YouTube
 
 ### 1. Python Tutorials
@@ -20,7 +22,15 @@ https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
 ### 2. Python for Everybody - Full University Python Course
 https://www.youtube.com/watch?v=8DvywoWv6fI&t=2861s
 
+-----
 
+## Intermediate Python Programming Course
+Aug 28, 2020
+
+https://www.youtube.com/watch?v=HGOBQPFzWKo&t=557s
+
+### Code:
+https://github.com/python-engineer/python-engineer-notebooks/tree/master/advanced-python
 
 -------
 
